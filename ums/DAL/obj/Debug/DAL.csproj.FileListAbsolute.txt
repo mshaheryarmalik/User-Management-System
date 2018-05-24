@@ -1,0 +1,7 @@
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\bin\Debug\DAL.dll
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\bin\Debug\DAL.pdb
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\bin\Debug\Entities.dll
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\bin\Debug\Entities.pdb
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\obj\Debug\DAL.dll
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\DAL\obj\Debug\DAL.pdb

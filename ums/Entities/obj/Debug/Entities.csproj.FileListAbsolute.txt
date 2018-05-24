@@ -1,0 +1,5 @@
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\Entities\bin\Debug\Entities.dll
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\Entities\bin\Debug\Entities.pdb
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\Entities\obj\Debug\Entities.dll
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\Entities\obj\Debug\Entities.pdb
+C:\Users\Muhammad Shaheryar\Documents\Visual Studio 2013\Projects\assign5\ums\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
